@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 9f06ea0270199dd4fa2ca27640c47433
+  - enabled: 1
+    path: Assets/Scenes/TutorialLevelScene.unity
+    guid: 084ea70d7555f3546871bc5ae1217e87
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene.unity
+    guid: 13ce05bd1360f4504999eee13a3db1a4
+  - enabled: 1
+    path: Assets/Scenes/DogLevel1Scene.unity
+    guid: 8743655fee268a54680b1132b2b8f4a3
+  - enabled: 1
+    path: Assets/Scenes/HumanLevelScene.unity
+    guid: 88b894692dc9f38478648ecbaac4d018
+  - enabled: 1
+    path: Assets/Scenes/DogLevel2Scene.unity
+    guid: 0f639317dc4e08347b1b63f10f6d0fa7
+  - enabled: 1
+    path: Assets/Scenes/DogHumanLevel.unity
+    guid: e60ed4c399d0849118508496754933b5
+  - enabled: 1
+    path: Assets/Scenes/MonkeyLevelScene.unity
+    guid: b268f81267f7340b59272aa97f4f9dc3
+  - enabled: 1
+    path: Assets/Scenes/BossLevelScene.unity
+    guid: aa907bc3cf6d36745938da045d1c9245
+  - enabled: 1
+    path: Assets/Scenes/VictoryLevelScene.unity
+    guid: c9eb30030d7174e43b7c7cbb1cfd0286
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 191508cbbf749304383e379aab5d0264,
+      type: 2}
